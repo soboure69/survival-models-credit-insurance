@@ -1,0 +1,11 @@
+# Environnement
+.venv/
+venv/
+
+# Données
+data/raw/
+data/interim/
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
